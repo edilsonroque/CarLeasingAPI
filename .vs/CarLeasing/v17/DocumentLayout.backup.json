@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\edils\\source\\repos\\CarLeasing\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|c:\\users\\edils\\source\\repos\\carleasing\\carleasing\\services\\carservice\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|solutionrelative:carleasing\\services\\carservice\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|c:\\users\\edils\\source\\repos\\carleasing\\carleasing\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|solutionrelative:carleasing\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|c:\\users\\edils\\source\\repos\\carleasing\\carleasing\\services\\carservice\\icarinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|solutionrelative:carleasing\\services\\carservice\\icarinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|c:\\users\\edils\\source\\repos\\carleasing\\carleasing\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9125A-0C77-4C10-8838-D42035B5B611}|CarLeasing\\CarLeasing.csproj|solutionrelative:carleasing\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 353,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICarInterface.cs",
-              "DocumentMoniker": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Services\\CarService\\ICarInterface.cs",
-              "RelativeDocumentMoniker": "CarLeasing\\Services\\CarService\\ICarInterface.cs",
-              "ToolTip": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Services\\CarService\\ICarInterface.cs",
-              "RelativeToolTip": "CarLeasing\\Services\\CarService\\ICarInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:03:00.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Services\\CarService\\CarService.cs",
-              "RelativeDocumentMoniker": "CarLeasing\\Services\\CarService\\CarService.cs",
-              "ToolTip": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Services\\CarService\\CarService.cs",
-              "RelativeToolTip": "CarLeasing\\Services\\CarService\\CarService.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAAADUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:02:58.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Models\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "CarLeasing\\Models\\ServiceResponse.cs",
-              "ToolTip": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Models\\ServiceResponse.cs",
-              "RelativeToolTip": "CarLeasing\\Models\\ServiceResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:02:55.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "CarLeasing\\Controllers\\CarController.cs",
-              "ToolTip": "C:\\Users\\edils\\source\\repos\\CarLeasing\\CarLeasing\\Controllers\\CarController.cs",
-              "RelativeToolTip": "CarLeasing\\Controllers\\CarController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T16:40:38.72Z",
-              "EditorCaption": ""
             }
           ]
         }
