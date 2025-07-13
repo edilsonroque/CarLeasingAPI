@@ -45,6 +45,8 @@ C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Microsoft.Ope
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Npgsql.dll
+C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -153,6 +155,7 @@ C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.As
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.csproj.CoreCompileInputs.cache
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.sourcelink.json
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\scopedcss\bundle\CarLeasing.styles.css
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets.development.json
@@ -163,7 +166,6 @@ C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebasse
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarLeasing.props
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarLeasing.props
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.csproj.Up2Date
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.dll
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\refint\CarLeasing.dll

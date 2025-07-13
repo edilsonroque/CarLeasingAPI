@@ -13,14 +13,14 @@ builder.Services.AddScoped<ICarInterface, CarService>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 
-// Swagger ativado em todos os ambientes:
+// Swagger ativado em todos os ambientes: add
 app.UseSwagger();
 app.UseSwaggerUI();
 
