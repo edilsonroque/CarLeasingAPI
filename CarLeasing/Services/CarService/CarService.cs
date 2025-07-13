@@ -56,6 +56,8 @@ namespace CarLeasing.Services.CarService
 
                 _context.Cars.Remove(car);
                 await _context.SaveChangesAsync();
+
+                serviceResponse.Dados = _context.Cars.ToList();
             }
             catch (Exception ex)
             {
