@@ -11,8 +11,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CarLeasing.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250712233424_InitPostgres")]
-    partial class InitPostgres
+    [Migration("20250717214828_NewMigration")]
+    partial class NewMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -54,6 +54,9 @@ namespace CarLeasing.Migrations
                     b.Property<string>("Transmission")
                         .IsRequired()
                         .HasColumnType("text");
+
+                    b.Property<double>("price")
+                        .HasColumnType("double precision");
 
                     b.Property<int>("year")
                         .HasColumnType("integer");

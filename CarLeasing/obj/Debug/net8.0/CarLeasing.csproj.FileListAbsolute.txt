@@ -172,3 +172,4 @@ C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\refint\CarLea
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.pdb
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\CarLeasing.genruntimeconfig.cache
 C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\ref\CarLeasing.dll
+C:\Users\edils\source\repos\CarLeasing\CarLeasing\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

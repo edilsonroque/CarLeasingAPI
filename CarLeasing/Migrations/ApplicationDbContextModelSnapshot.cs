@@ -52,6 +52,9 @@ namespace CarLeasing.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<double>("price")
+                        .HasColumnType("double precision");
+
                     b.Property<int>("year")
                         .HasColumnType("integer");
 
