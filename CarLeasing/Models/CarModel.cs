@@ -8,6 +8,7 @@ namespace CarLeasing.Models
         [Key]
         public int Id { get; set; }
         public string Brand { get; set; } = null!;
+        public double price { get; set; }
         public TransmissionEnum Transmission { get; set; }
         public FuelTypeEnum FuelType { get; set; }
         public int year { get; set; }
